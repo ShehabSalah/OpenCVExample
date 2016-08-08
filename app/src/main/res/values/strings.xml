@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCV Example</string>
+    <string name="Convert">Convert to gray scale</string>
+</resources>
