@@ -9,10 +9,8 @@ This project designed and developed to be template that just connected to OpenCV
 # What this project do?
 This project just connected to openCV 2.4.11 and it convert colored image to grayscale image to make sure that the OpenCV works fine.
 
-#### Screen Shot
-![colored](https://cloud.githubusercontent.com/assets/16334887/17467204/fe45081c-5d1b-11e6-921e-1fb058c571ae.png)
-
-![gray scale](https://cloud.githubusercontent.com/assets/16334887/17467199/f4949292-5d1b-11e6-86ce-e26477400e07.png)
+## Screenshots
+<img src="https://cloud.githubusercontent.com/assets/16334887/17467204/fe45081c-5d1b-11e6-921e-1fb058c571ae.png" width="300"/>  <img src="https://cloud.githubusercontent.com/assets/16334887/17467199/f4949292-5d1b-11e6-86ce-e26477400e07.png" width="300"/>
 
 
 # How to use it as starter code?
@@ -29,3 +27,20 @@ DO NOT DELETE THE FOLLOWING CODE:
 <code>
  static{ if (!OpenCVLoader.initDebug()) ...}
 </code>
+<br/><br/>
+
+```
+Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  
+  http://www.apache.org/licenses/LICENSE-2.0
+  
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
