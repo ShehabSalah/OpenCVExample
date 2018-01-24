@@ -29,6 +29,7 @@ DO NOT DELETE THE FOLLOWING CODE:
 </code>
 <br/><br/>
 
+## License
 ```
 Copyright (C) 2018 Shehab Salah
 
